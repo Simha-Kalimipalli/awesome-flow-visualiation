@@ -10,49 +10,55 @@ Feel free to contribute by opening an issue or creating a pull request.
 ### Python
  - [Seaborn - Heatmap](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
  - [Chord - Chord Diagram](https://python-graph-gallery.com/chord-diagram/) 
- - [Plotly - Sankey]  (https://python-graph-gallery.com/sankey-diagram/)
+ - [Plotly - Sankey](https://python-graph-gallery.com/sankey-diagram/)
+ - [Plotly - Scattergeo](https://coderzcolumn.com/tutorials/data-science/how-to-create-connection-map-chart-in-python-jupyter-notebook-plotly-and-geopandas#1)
+ - [Geopandas and Matplotlib](https://coderzcolumn.com/tutorials/data-science/how-to-create-connection-map-chart-in-python-jupyter-notebook-plotly-and-geopandas#2)
    
- - Various methods
-    - https://gisgeography.com/flow-maps/ 
-    - https://coderzcolumn.com/tutorials/data-science/how-to-create-connection-map-chart-in-python-jupyter-notebook-plotly-and-geopandas
 ### R
  - [Odline](https://github.com/maptalks/maptalks.odline)
- - [stplanr] (https://github.com/ropensci/stplanr/)a package for sustainable transport planning with R including functions for working with O-D data.
+ - [stplanr](https://github.com/ropensci/stplanr/)a package for sustainable transport planning with R including functions for working with O-D data.
  - [cartography](https://riatelab.github.io/cartography/) has functions for working with O-D data (ex getLinkLayer())
  - [mapsf](https://github.com/riatelab/mapsf) successor to cartography
  - [gravity](https://pacha.dev/gravity/) - create gravity models to predict the amount of flow in a network.
+
 ### Javascript
-   -  [FlowMap GL](https://github.com/visgl/flowmap.gl) the mot popular way in javascript for visualising O - D data
+   - [FlowMap GL](https://github.com/visgl/flowmap.gl) the mot popular way in javascript for visualising O - D data
    - [Arabesque](https://github.com/gflowiz/arabesque) is another JavaScript project for working with OD data
 
-### Curved OD Matrix map
- - Most GIS Software
-   
-### Raw OD matrix map
- - Any GIS Software
-
-
-### [Four Square]( https://location.foursquare.com/studio/docs/use-cases-origin-destination-analysis)
-### [Kepler GL](https://github.com/keplergl/kepler.gl)
 ### ARCGis pro
- - https://pro.arcgis.com/en/pro-app/latest/tool-reference/analysis/generate-origin-destination-links.htm 
- - https://geoxc.maps.arcgis.com/home/item.html?id=46a5ce17daa146e29aa60bc3535d3833 
- - https://support.esri.com/en-us/knowledge-base/deprecation-network-analysis-tools-in-the-ready-to-use-000027444 
-
-### [Tableau](https://community.tableau.com/s/news/a0A4T000001v7UCUAY/origindestination-maps-or-flow-maps) 
+ - [Generate Origin-Destination Links (Analysis)](https://pro.arcgis.com/en/pro-app/latest/tool-reference/analysis/generate-origin-destination-links.htm) 
+ - [Distributive Flow Map GP Sample](https://geoxc.maps.arcgis.com/home/item.html?id=46a5ce17daa146e29aa60bc3535d3833) 
+ - [Network Analysis Tools](https://support.esri.com/en-us/knowledge-base/deprecation-network-analysis-tools-in-the-ready-to-use-000027444)
+ - [Distributive Flow Lines GP Tool](https://hub.arcgis.com/content/04fa6ed8746b451892f339011aaf989d/about)
+ - [World Traffic Service](https://www.arcgis.com/home/item.html?id=ff11eb5b930b4fabba15c47feb130de4)
 
 ### QGIS 
  - [No plugins](https://plugins.qgis.org/planet/tag/flows/)
  - [MMQIS](https://michaelminn.com/linux/mmqgis/)
  - [Edge Bundling](https://github.com/ait-energy/qgis-edge-bundling)
- - 
+ - [FlowMapper](https://plugins.qgis.org/plugins/FlowMapper/) - generates flow lines between discreet nodes for visualising spatial interaction data (e.g. migration, trips).
+
+### [Tableau](https://community.tableau.com/s/news/a0A4T000001v7UCUAY/origindestination-maps-or-flow-maps) 
+
+### [Four Square]( https://location.foursquare.com/studio/docs/use-cases-origin-destination-analysis)
+
+### [Kepler GL](https://github.com/keplergl/kepler.gl)
+
 ### [MatSim](https://matsim.org/)
 
 ### [PowerBI](https://www.sqlshack.com/flow-map-chart-in-power-bi-desktop/)
 
 ### [FlowMapper](https://flowmapper.org/ )
 
-###  [V-Analytics](http://geoanalytics.net/V-Analytics/)
+### [V-Analytics](http://geoanalytics.net/V-Analytics/)
+
+### [HERE maps](https://www.here.com/docs/bundle/traffic-api-developer-guide-v6-china/page/topics_v6.1/example-flow.html)
+
+### Curved OD Matrix map
+ - Most GIS Software
+   
+### Raw OD matrix map
+ - Any GIS Software
 
 ---
 ## Papers
