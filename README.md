@@ -1,7 +1,9 @@
 # awesome-flow-visualization
 A helpful list of Orgin-Destinaton flow visualization tools and research. 
 
-Orgin-Destinaton flow visualizations are vital accross a multiple of fields including transportation engineering, economic trade analysis and demography mapping. 
+Orgin-Destinaton flow visualizations are vital accross a multiude of fields including transportation engineering, economic trade analysis and demography mapping. 
+
+Feel free to contribute by opening an issue or creating a pull request. 
 
 ## Tools (by Language/ parent software)	
 
@@ -13,47 +15,42 @@ Orgin-Destinaton flow visualizations are vital accross a multiple of fields incl
     - https://gisgeography.com/flow-maps/ 
     - https://coderzcolumn.com/tutorials/data-science/how-to-create-connection-map-chart-in-python-jupyter-notebook-plotly-and-geopandas
 ### R
- - Odline https://github.com/maptalks/maptalks.odline supports transport planning, with a focus on geographic transport datasets and many functions for working with O - D data in the od function family.
+ - [Odline](https://github.com/maptalks/maptalks.odline)
+ - [(https://github.com/ropensci/stplanr/)supports transport planning, with a focus on geographic transport datasets and many functions for working with O - D data in the od function family.
  - cartography has functions for working with O-D data (ex getLinkLayer())
-gravity - helps one to create ‘gravity models’ to predict the amount of flow in a network.
+ - gravity - helps one to create ‘gravity models’ to predict the amount of flow in a network.
 ### Javascript
-   - flowmap.gl, a JavaScript package for visualising OD data
-    - Arabesque is another JavaScript project for working with OD data
-
+   -  [FlowMap GL](https://github.com/visgl/flowmap.gl) the mot popular way in javascript for visualising O - D data
+    - [Arabesque](https://github.com/gflowiz/arabesque) is another JavaScript project for working with OD data
 
 ### Curved OD Matrix map
  - Most GIS Software
 ### Raw OD matrix map
  - Any GIS Software
 
-### FlowMap GL https://github.com/visgl/flowmap.gl
-### Four Square https://location.foursquare.com/studio/docs/use-cases-origin-destination-analysis
-### Kepler GL https://github.com/keplergl/kepler.gl
+###
+### [Four Square]( https://location.foursquare.com/studio/docs/use-cases-origin-destination-analysis)
+### [Kepler GL](https://github.com/keplergl/kepler.gl)
 ### ARCGis pro
  - https://pro.arcgis.com/en/pro-app/latest/tool-reference/analysis/generate-origin-destination-links.htm 
  - https://geoxc.maps.arcgis.com/home/item.html?id=46a5ce17daa146e29aa60bc3535d3833 
  - https://support.esri.com/en-us/knowledge-base/deprecation-network-analysis-tools-in-the-ready-to-use-000027444 
 
-### Tableau
-https://community.tableau.com/s/news/a0A4T000001v7UCUAY/origindestination-maps-or-flow-maps 
+### [Tableau](https://community.tableau.com/s/news/a0A4T000001v7UCUAY/origindestination-maps-or-flow-maps) 
 ### QGIS 
- - No plugin
-https://plugins.qgis.org/planet/tag/flows/ 
- - Mmgis
-https://michaelminn.com/linux/mmqgis/
- - Edge Bundling
-https://github.com/ait-energy/qgis-edge-bundling
-### MatSim
-https://matsim.org/
-### PowerBI
-https://www.sqlshack.com/flow-map-chart-in-power-bi-desktop/
-### FlowMapper
-https://flowmapper.org/ 
-### V-Analytics
-http://geoanalytics.net/V-Analytics/
+ - [No plugins](https://plugins.qgis.org/planet/tag/flows/)
+ - [MMQIS](https://michaelminn.com/linux/mmqgis/)
+ - [Edge Bundling](https://github.com/ait-energy/qgis-edge-bundling)
+ - 
+### [MatSim](https://matsim.org/)
 
+### [PowerBI] (https://www.sqlshack.com/flow-map-chart-in-power-bi-desktop/)
 
+### [FlowMapper](https://flowmapper.org/ )
 
+###  [V-Analytics](http://geoanalytics.net/V-Analytics/)
+
+---
 ## Papers
 
 ### OD General flow visualization design criteria 
