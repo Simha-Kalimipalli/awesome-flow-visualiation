@@ -8,27 +8,30 @@ Feel free to contribute by opening an issue or creating a pull request.
 ## Tools (by Language/ parent software)	
 
 ### Python
- - Seaborn - Heatmap https://seaborn.pydata.org/generated/seaborn.heatmap.html
- - Chord - Chord Diagram  https://python-graph-gallery.com/chord-diagram/ 
- - Plotly - Sankey  https://python-graph-gallery.com/sankey-diagram/ 
+ - [Seaborn - Heatmap](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
+ - [Chord - Chord Diagram](https://python-graph-gallery.com/chord-diagram/) 
+ - [Plotly - Sankey]  (https://python-graph-gallery.com/sankey-diagram/)
+   
  - Various methods
     - https://gisgeography.com/flow-maps/ 
     - https://coderzcolumn.com/tutorials/data-science/how-to-create-connection-map-chart-in-python-jupyter-notebook-plotly-and-geopandas
 ### R
  - [Odline](https://github.com/maptalks/maptalks.odline)
- - [(https://github.com/ropensci/stplanr/)supports transport planning, with a focus on geographic transport datasets and many functions for working with O - D data in the od function family.
- - cartography has functions for working with O-D data (ex getLinkLayer())
- - gravity - helps one to create ‘gravity models’ to predict the amount of flow in a network.
+ - [stplanr] (https://github.com/ropensci/stplanr/)a package for sustainable transport planning with R including functions for working with O-D data.
+ - [cartography](https://riatelab.github.io/cartography/) has functions for working with O-D data (ex getLinkLayer())
+ - [mapsf](https://github.com/riatelab/mapsf) successor to cartography
+ - [gravity](https://pacha.dev/gravity/) - create gravity models to predict the amount of flow in a network.
 ### Javascript
    -  [FlowMap GL](https://github.com/visgl/flowmap.gl) the mot popular way in javascript for visualising O - D data
-    - [Arabesque](https://github.com/gflowiz/arabesque) is another JavaScript project for working with OD data
+   - [Arabesque](https://github.com/gflowiz/arabesque) is another JavaScript project for working with OD data
 
 ### Curved OD Matrix map
  - Most GIS Software
+   
 ### Raw OD matrix map
  - Any GIS Software
 
-###
+
 ### [Four Square]( https://location.foursquare.com/studio/docs/use-cases-origin-destination-analysis)
 ### [Kepler GL](https://github.com/keplergl/kepler.gl)
 ### ARCGis pro
@@ -37,6 +40,7 @@ Feel free to contribute by opening an issue or creating a pull request.
  - https://support.esri.com/en-us/knowledge-base/deprecation-network-analysis-tools-in-the-ready-to-use-000027444 
 
 ### [Tableau](https://community.tableau.com/s/news/a0A4T000001v7UCUAY/origindestination-maps-or-flow-maps) 
+
 ### QGIS 
  - [No plugins](https://plugins.qgis.org/planet/tag/flows/)
  - [MMQIS](https://michaelminn.com/linux/mmqgis/)
@@ -44,7 +48,7 @@ Feel free to contribute by opening an issue or creating a pull request.
  - 
 ### [MatSim](https://matsim.org/)
 
-### [PowerBI] (https://www.sqlshack.com/flow-map-chart-in-power-bi-desktop/)
+### [PowerBI](https://www.sqlshack.com/flow-map-chart-in-power-bi-desktop/)
 
 ### [FlowMapper](https://flowmapper.org/ )
 
