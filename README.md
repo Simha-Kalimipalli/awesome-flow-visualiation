@@ -25,7 +25,7 @@ Feel free to contribute by opening an issue or creating a pull request.
    - [FlowMap GL](https://github.com/visgl/flowmap.gl) - The mot popular way in javascript for visualising O - D data
    - [Arabesque](https://github.com/gflowiz/arabesque) - JavaScript project for working with OD data
 
-### ARCGis pro
+### ArcGIS Pro
  - [Generate Origin-Destination Links (Analysis)](https://pro.arcgis.com/en/pro-app/latest/tool-reference/analysis/generate-origin-destination-links.htm) 
  - [Distributive Flow Map GP Sample](https://geoxc.maps.arcgis.com/home/item.html?id=46a5ce17daa146e29aa60bc3535d3833) 
  - [Network Analysis Tools](https://support.esri.com/en-us/knowledge-base/deprecation-network-analysis-tools-in-the-ready-to-use-000027444)
