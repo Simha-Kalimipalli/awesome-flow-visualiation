@@ -8,22 +8,22 @@ Feel free to contribute by opening an issue or creating a pull request.
 ## Tools (by Language/ parent software)	
 
 ### Python
- - [Seaborn - Heatmap](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
+ - [Seaborn - Heatmap](https://seaborn.pydata.org/generated/seaborn.heatmap.html) 
  - [Chord - Chord Diagram](https://python-graph-gallery.com/chord-diagram/) 
- - [Plotly - Sankey](https://python-graph-gallery.com/sankey-diagram/)
- - [Plotly - Scattergeo](https://coderzcolumn.com/tutorials/data-science/how-to-create-connection-map-chart-in-python-jupyter-notebook-plotly-and-geopandas#1)
- - [Geopandas and Matplotlib](https://coderzcolumn.com/tutorials/data-science/how-to-create-connection-map-chart-in-python-jupyter-notebook-plotly-and-geopandas#2)
+ - [Plotly - Sankey](https://python-graph-gallery.com/sankey-diagram/) 
+ - [Plotly - Scattergeo](https://coderzcolumn.com/tutorials/data-science/how-to-create-connection-map-chart-in-python-jupyter-notebook-plotly-and-geopandas#1)  
+ - [Geopandas and Matplotlib](https://coderzcolumn.com/tutorials/data-science/how-to-create-connection-map-chart-in-python-jupyter-notebook-plotly-and-geopandas#2)  
    
 ### R
- - [Odline](https://github.com/maptalks/maptalks.odline)
- - [stplanr](https://github.com/ropensci/stplanr/)a package for sustainable transport planning with R including functions for working with O-D data.
- - [cartography](https://riatelab.github.io/cartography/) has functions for working with O-D data (ex getLinkLayer())
- - [mapsf](https://github.com/riatelab/mapsf) successor to cartography
- - [gravity](https://pacha.dev/gravity/) - create gravity models to predict the amount of flow in a network.
+ - [Odline](https://github.com/maptalks/maptalks.odline) - 
+ - [stplanr](https://github.com/ropensci/stplanr/) - A package for sustainable transport planning with R including functions for working with O-D data.
+ - [cartography](https://riatelab.github.io/cartography/) - Has functions for working with O-D data (ex getLinkLayer())
+ - [mapsf](https://github.com/riatelab/mapsf) - Successor to cartography
+ - [gravity](https://pacha.dev/gravity/) - Create gravity models to predict the amount of flow in a network.
 
 ### Javascript
-   - [FlowMap GL](https://github.com/visgl/flowmap.gl) the mot popular way in javascript for visualising O - D data
-   - [Arabesque](https://github.com/gflowiz/arabesque) is another JavaScript project for working with OD data
+   - [FlowMap GL](https://github.com/visgl/flowmap.gl) - The mot popular way in javascript for visualising O - D data
+   - [Arabesque](https://github.com/gflowiz/arabesque) - JavaScript project for working with OD data
 
 ### ARCGis pro
  - [Generate Origin-Destination Links (Analysis)](https://pro.arcgis.com/en/pro-app/latest/tool-reference/analysis/generate-origin-destination-links.htm) 
@@ -33,10 +33,10 @@ Feel free to contribute by opening an issue or creating a pull request.
  - [World Traffic Service](https://www.arcgis.com/home/item.html?id=ff11eb5b930b4fabba15c47feb130de4)
 
 ### QGIS 
- - [No plugins](https://plugins.qgis.org/planet/tag/flows/)
- - [MMQIS](https://michaelminn.com/linux/mmqgis/)
- - [Edge Bundling](https://github.com/ait-energy/qgis-edge-bundling)
- - [FlowMapper](https://plugins.qgis.org/plugins/FlowMapper/) - generates flow lines between discreet nodes for visualising spatial interaction data (e.g. migration, trips).
+ - [No plugins](https://plugins.qgis.org/planet/tag/flows/) 
+ - [MMQIS](https://michaelminn.com/linux/mmqgis/) 
+ - [Edge Bundling](https://github.com/ait-energy/qgis-edge-bundling) 
+ - [FlowMapper](https://plugins.qgis.org/plugins/FlowMapper/) - Generates flow lines between discreet nodes for visualising spatial interaction data (e.g. migration, trips).
 
 ### [Tableau](https://community.tableau.com/s/news/a0A4T000001v7UCUAY/origindestination-maps-or-flow-maps) 
 
