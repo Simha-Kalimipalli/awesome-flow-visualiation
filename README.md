@@ -20,10 +20,21 @@ Feel free to contribute by opening an issue or creating a pull request.
  - [cartography](https://riatelab.github.io/cartography/) - Has functions for working with O-D data (ex getLinkLayer())
  - [mapsf](https://github.com/riatelab/mapsf) - Successor to cartography
  - [gravity](https://pacha.dev/gravity/) - Create gravity models to predict the amount of flow in a network.
-
+ - [Circos - Chord Diagram ](https://jokergoo.github.io/circlize_book/book/the-chorddiagram-function.html)
+ - [CIRCLIZE - chord diagram ](https://r-graph-gallery.com/chord-diagram.html)
+ - [Heatmap  - heatmap](https://r-graph-gallery.com/heatmap)
+ - [networkD3 - sankey diagram ](https://r-graph-gallery.com/sankey-diagram.html)
+ - [Plotly - sankey diagram ](https://plotly.com/r/sankey-diagram/)
+ - [Ggsankey - sankey ](https://r-charts.com/flow/sankey-diagram-ggplot2/)
+   
 ### Javascript
    - [FlowMap GL](https://github.com/visgl/flowmap.gl) - The mot popular way in javascript for visualising O - D data
    - [Arabesque](https://github.com/gflowiz/arabesque) - JavaScript project for working with OD data
+   - [d3.js - Chord Diagram ](https://d3-graph-gallery.com/chord.html)
+   - [ApexCharts - Heatmap ](https://apexcharts.com/javascript-chart-demos/heatmap-charts/)
+   - [Plotly - heatmap](https://plotly.com/javascript/heatmaps/)
+   - [j3.js - Sankey Diagram](https://d3-graph-gallery.com/sankey.html)
+   - [Google Chart - Sankey Diagram ](https://developers.google.com/chart/interactive/docs/gallery/sankey)
 
 ### ArcGIS Pro
  - [Generate Origin-Destination Links (Analysis)](https://pro.arcgis.com/en/pro-app/latest/tool-reference/analysis/generate-origin-destination-links.htm) 
